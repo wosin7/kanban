@@ -1,0 +1,11 @@
+.board { text-align: center; }
+
+.column { background-color: lightblue; float: left; min-width: 25%; text-align: center; display: inline-block; margin: 10px 10px; }
+
+.card { text-align: left; padding-top: 10px; margin-top: 5px; }
+
+.card-description { height: 30px; border: 1px solid black; display: inline; }
+
+.btn-delete { float: right; }
+
+.column-container { text-align: center; margin: 0 auto; }
